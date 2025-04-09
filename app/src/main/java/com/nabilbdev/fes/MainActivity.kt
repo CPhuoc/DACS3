@@ -47,7 +47,7 @@ fun FesAppCompactPreview() {
     }
 }
 
-@Preview(device = Devices.FOLDABLE, showSystemUi = true)
+@Preview(device = "spec:width=673dp,height=841dp", showSystemUi = true)
 @Composable
 fun FesAppMediumPreview() {
     FesTheme {
@@ -57,7 +57,7 @@ fun FesAppMediumPreview() {
     }
 }
 
-@Preview(device = Devices.DESKTOP, showSystemUi = true)
+@Preview(device = "spec:width=1920dp,height=1080dp,dpi=160", showSystemUi = true)
 @Composable
 fun FesAppExpandedPreview() {
     FesTheme {
