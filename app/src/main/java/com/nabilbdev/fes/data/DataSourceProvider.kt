@@ -113,8 +113,8 @@ object DataSourceProvider {
         ),
 
         Recommendation(
-            name = "RIAD VERUS",
-            description = "Derb Arset Bennis, Batha - safe choice. Excellent wifi. Favourite for students looking for a homestay. Cheap deals to be had. Lush views.",
+            name = "MARRIOT",
+            description = "Danang Marriott Resort & Spa sở hữu kiến trúc Indochine đậm chất Á Đông và mang trong mình hơi thở thiên nhiên hoang sơ. Chính sự kết hợp độc đáo này đã giúp Danang Marriott Resort & Spa được vinh danh là “Khu nghỉ dưỡng biển hàng đầu Việt Nam” bởi World Travel Award vào năm 2017.",
             review = FesPlacesReview.THREE,
             categoryOptions = CategoryOptions.HOTELS,
             imageResourceId = R.drawable.hotel1
@@ -136,8 +136,8 @@ object DataSourceProvider {
             imageResourceId = R.drawable.hotel3
         ),
         Recommendation(
-            name = "RIAD VERUS",
-            description = "Derb Arset Bennis, Batha - safe choice. Excellent wifi. Favourite for students looking for a homestay. Cheap deals to be had. Lush views.",
+            name = "MARRIOT",
+            description = "Danang Marriott Resort & Spa sở hữu kiến trúc Indochine đậm chất Á Đông và mang trong mình hơi thở thiên nhiên hoang sơ. Chính sự kết hợp độc đáo này đã giúp Danang Marriott Resort & Spa được vinh danh là “Khu nghỉ dưỡng biển hàng đầu Việt Nam” bởi World Travel Award vào năm 2017..",
             review = FesPlacesReview.THREE,
             categoryOptions = CategoryOptions.HOTELS,
             imageResourceId = R.drawable.hotel1
